@@ -1,0 +1,19 @@
+* {
+  box-sizing: border-box;
+}
+
+.body {
+  margin: 0;
+}
+
+.container {
+  width: 100%;
+  padding: 10px 15px;
+}
+
+.article-wrapper {
+  background-image: url(snow.inCanada.jpg);
+  padding: 180px 100px;
+  align: center;
+  color: white;
+}
