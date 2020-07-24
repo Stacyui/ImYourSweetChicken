@@ -1,0 +1,75 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: "Montserrat","游ゴシック",YuGothic,"ヒラギノ角ゴ ProN W3","Hiragino Kaku Gothic ProN","メイリオ",Meiryo,sans-serif;
+}
+
+.container {
+  width: 100%;
+  padding: 0 15px;
+  margin: 0 auto;
+}
+
+header {
+  background-color: #727680;
+  height: 70px;
+  position: fixed;
+  width: 100%;
+}
+
+header P {
+  color: white;
+  text-align: center;
+  font-size: 30px;
+  margin: 10px 0;
+}
+
+.top-wrapper {
+  height: 600px;
+  padding: 180px 0 100px 0;
+  text-align: center;
+  color: white;
+  background-image: url(snow.inCanada);
+  background-size: cover;
+}
+
+.top-wrapper h1 {
+  opacity: 0.7;
+  font-size: 40px;
+  letter-spacing: 0.3;
+}
+
+.top-wrapper p {
+  opacity: 0.7;
+  font-size: 20px;
+}
+
+.article-wrapper {
+  height: 500px;
+  background-color: #EAF3F7;
+  text-align: center;
+}
+
+.heading h2 {
+  color: #4295BD;
+  padding-top: 30px;
+  padding-bottom: 20px;
+}
+
+.message-wrapper {
+  padding: 70px;
+  text-align: center;
+}
+
+.heading h3 {
+  color: #FB93CC;
+  font-size: 30px;
+}
+
+footer p {
+  font-size: 15px;
+  color:#494748;
+}
