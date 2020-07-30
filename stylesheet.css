@@ -36,6 +36,10 @@ header P {
   background-size: cover;
 }
 
+.top-wrapper-taxts {
+  background-color: white;
+}
+    
 .top-wrapper h1 {
   font-size: 40px;
   letter-spacing: 0.3;
