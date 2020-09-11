@@ -1,0 +1,33 @@
+
+@media all and (max-width: 1000px) {
+  .top-wrapper h1 {
+  font-size: 30px;
+  }
+
+  .top-wrapper p {
+  font-size: 15px;
+  }
+
+  .heading h3 {
+    font-size: 20px;
+  }
+}
+
+@media all and (max-width: 670px) {
+  .top-wrapper h1 {
+  font-size: 20px;
+  }
+
+  .top-wrapper p {
+  font-size: 20px;
+  }
+
+  .heading h3 {
+    font-size: 15px;
+  }
+
+  header p {
+    font-size: 17px;
+    padding: 10px 0;
+  }
+}
