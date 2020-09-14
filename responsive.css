@@ -15,15 +15,15 @@
 
 @media all and (max-width: 670px) {
   .top-wrapper h1 {
-  font-size: 20px;
+  font-size: 15px;
   }
 
   .top-wrapper p {
-  font-size: 20px;
+  font-size: 10px;
   }
 
   .heading h3 {
-    font-size: 15px;
+    font-size: 10px;
   }
 
   header p {
